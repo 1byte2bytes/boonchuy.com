@@ -22,8 +22,8 @@ title: Anneimation.com
 email: anne@anneimation.com
 description: >- # this means to ignore newlines until "baseurl:"
   Anne's art website, Anneimation.com
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://anneimation.com/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -51,7 +51,7 @@ Blog: /blog
 links:
   Drafts: /tagged/draft/
   Drawings: /tagged/drawing/
-  Writing: /tagged/writing/
+  Writings: /tagged/writing/
   Renders: /tagged/render/
   Animations: /tagged/render/
 
