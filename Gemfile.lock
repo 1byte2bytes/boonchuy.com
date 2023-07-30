@@ -1,6 +1,6 @@
 GIT
   remote: https://gitlab.boonchuy.com/anne/jekyllBear.git
-  revision: c43fa75b45cbc8cb00d8f81fdec44364acf9dd4f
+  revision: f30df50381879b7395b968797f1c860d474abf42
   specs:
     jekyll-bear-theme (0.1.6)
       jekyll (~> 4.2)
