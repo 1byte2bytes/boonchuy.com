@@ -4,6 +4,7 @@ title:  "TDOV 2022: Disney and saying gay"
 date:   2022-03-31 00:00:00 +0800
 tags: [personal, opinion]
 story-draft: false
+description: Political ramblings about Disney and the Don't Say Gay bill.
 ---
 
 ![LGBT Pride Flag](https://cdn.anneimation.com/misc-assets/lgbt-pride-flag-redesign-hero.jpg)

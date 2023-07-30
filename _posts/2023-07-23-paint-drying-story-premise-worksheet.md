@@ -4,6 +4,7 @@ title:  "Paint Drying [Story Premise Worksheet]"
 date:   2023-07-23 20:56:02 +0800
 tags: [fiction, fanfic, the-owl-house, draft, writing]
 story-draft: true
+description: The pitch plan for the fanfic Paint Dries.
 ---
 
 ### Setting

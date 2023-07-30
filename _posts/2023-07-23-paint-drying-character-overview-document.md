@@ -4,6 +4,7 @@ title:  "Paint Drying [Character Overview Document]"
 date:   2023-07-23 20:56:04 +0800
 tags: [fiction, fanfic, the-owl-house, draft, writing]
 story-draft: true
+description: Plans for character traits and behaviours for the fanfic Paint Dries.
 ---
 
 ## Vee

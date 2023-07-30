@@ -5,6 +5,7 @@ date:   2022-03-19 00:00:00 +0800
 tags: [drawing, fanart]
 story-draft: false
 featured-image: https://cdn.anneimation.com/art/fanart/mei/01/2022-03-13/16.png
+description: A writeup of some useful Illustrator techniques I learned, and some general drawing practice.
 ---
 
 After watching Pixar’s excellent new movie Turning Red, I decided to try my hand at drawing Mei Lee, the main character, to use on Discord as a profile icon. As you can see above, I got some decent results (there’s still a good bit more to do, though!). I learnt quite a bit in the process of drawing this one piece, and I thought it might be useful to other starting artists to describe some of the issues I encountered, and show how art can progress.

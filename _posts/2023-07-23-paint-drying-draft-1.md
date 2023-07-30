@@ -4,6 +4,7 @@ title:  "Paint Drying [Draft 1]"
 date:   2023-07-23 20:56:05 +0800
 tags: [fiction, fanfic, the-owl-house, draft, writing]
 story-draft: true
+description: The first draft of Paint Dries, before any editing passes or reviews.
 ---
 
 Vee is rummaging through her locker, making sure everything is in its rightful place and getting set up for the first day of school. Masha, meanwhile, had stuffed all their school crap into the locker however it would fit, and is leaning against their closed locker.
