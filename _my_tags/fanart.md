@@ -1,0 +1,4 @@
+---
+slug: fanart
+name: Fanart
+---
