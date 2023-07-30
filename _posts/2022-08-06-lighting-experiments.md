@@ -4,6 +4,7 @@ title:  "Lighting Experiments"
 date:   2022-08-06 00:00:00 +0800
 tags: [render]
 story-draft: false
+featured-image: https://cdn.anneimation.com/art/learning/06-08-2022/UNTITLED__perspShape_beauty.0001.png
 ---
 
 Here are some cool renders I made today while playing with lighting. That’s it, that’s the post. There’s more cool renders if you push the “Read More” button, though!

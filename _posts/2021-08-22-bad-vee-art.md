@@ -4,6 +4,7 @@ title:  "Just Art: Bad Vee art"
 date:   2021-08-22 00:00:00 +0800
 tags: [drawing, fanart, the-owl-house]
 story-draft: false
+featured-image: https://cdn.anneimation.com/art/fanart/vee1.jpg
 ---
 
 ![](https://cdn.anneimation.com/art/fanart/vee1.jpg)
