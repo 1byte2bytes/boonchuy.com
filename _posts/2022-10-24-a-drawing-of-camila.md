@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Just Art: A drawing of Camila"
-date:   2021-08-22 00:00:00 +0800
+date:   2022-10-24 00:00:00 +0800
 tags: [drawing, fanart, the-owl-house]
 story-draft: false
 ---
