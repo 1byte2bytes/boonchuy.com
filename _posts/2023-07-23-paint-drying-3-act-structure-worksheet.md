@@ -2,7 +2,7 @@
 layout: post
 title:  "Paint Drying [3-Act Structure Worksheet]"
 date:   2023-07-23 20:56:03 +0800
-tags: [fiction, fanfic, the-owl-house, draft]
+tags: [fiction, fanfic, the-owl-house, draft, writing]
 story-draft: true
 ---
 
