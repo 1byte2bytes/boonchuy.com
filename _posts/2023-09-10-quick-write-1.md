@@ -4,7 +4,13 @@ title:  "Quick Write day 1"
 date:   2023-09-10 19:21:00 +0800
 tags: [fiction, writing, quick-write]
 story-draft: false
-description: Quick Writing day 1
+description: Holly and her brother discover a box in the attic
+---
+
+**Introduction**: I am going to start practising writing by using a random prompt generator and having to write a short story in 10-15 minutes. The point of Quick Writes are to help me become more flexible and comfortable with writing. Some may be bad, some may be weird, but discovering what works and what doesn't is an important part of getting comfortable with your craft.
+
+With that, let us begin my first Quick Write piece.
+
 ---
 
 Generated writing prompt: `Amongst her mother's possessions, she found`
@@ -13,7 +19,7 @@ Characters: Holly (child), Elena (mother)
 
 ---
 
-Holly reaches for a box labelled "Elena's Stuff". It's quite difficult, standing atop a ladder into the small attic of their family home. She struggles with the box, eventaully getting it close.
+Holly reaches for a box labelled "Elena's Stuff". It's quite difficult, standing atop a ladder into the small attic of their family home. She struggles with the box, eventually getting it close.
 
 *My mother really had a lot of stuff...*
 
