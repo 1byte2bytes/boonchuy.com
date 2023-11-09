@@ -53,7 +53,7 @@ links:
   Drawings: /tagged/drawing/
   Writings: /tagged/writing/
   Renders: /tagged/render/
-  Animations: /tagged/animation/
+#  Animations: /tagged/animation/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
