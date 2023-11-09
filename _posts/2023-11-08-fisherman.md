@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Quick Write: Fisherman"
-date:   2023-09-11 19:52:00 +0800
+date:   2023-11-08 19:52:00 +0800
 tags: [fiction, writing, quick-write]
 story-draft: false
 description: A lonely man by the sea.
