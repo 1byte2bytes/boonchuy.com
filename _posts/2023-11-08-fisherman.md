@@ -17,7 +17,7 @@ Ocean breeze, seagulls shrieking.
 
 His fishing rod cast, waiting for a bite.
 
-The deep blue waves, clear blue sky, a beautiful vista.
+Deep blue waves, clear blue sky, a beautiful vista.
 
 He isn't lonely today.
 
