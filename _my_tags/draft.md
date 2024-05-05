@@ -1,4 +1,0 @@
----
-slug: draft
-name: Draft
----

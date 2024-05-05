@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Anneimation.com
-email: anne@anneimation.com
+title: Boonchuy.com
+email: anne@boonchuy.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Anne's art website, Anneimation.com
+  Anne's tech website, boonchuy.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -49,10 +49,7 @@ permalink: /blog/:slug
 Blog: /blog
 
 links:
-  Drafts: /tagged/draft/
-  Drawings: /tagged/drawing/
-  Writings: /tagged/writing/
-  Renders: /tagged/render/
+  Art: https://anneimation.com/
 #  Animations: /tagged/animation/
 
 # Exclude from processing.

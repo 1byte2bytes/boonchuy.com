@@ -1,4 +1,0 @@
----
-slug: drawing
-name: Drawing
----

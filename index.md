@@ -4,6 +4,6 @@ title: Hello
 ---
 
 
-## Welcome to Anneimation.com!
+## Welcome to Boonchuy.com!
 
-Welcome to my website, where I post all my art projects and ramblings to. Have a look around, and hopefully you enjoy my works.
+Welcome to my website, where I post all my tech projects and related ramblings to.
